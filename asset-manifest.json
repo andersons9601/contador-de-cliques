@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andersons9601/contador-de-cliques/static/css/main.e6c13ad2.css",
+    "main.js": "/andersons9601/contador-de-cliques/static/js/main.0790585b.js",
+    "static/js/453.a0c46b0b.chunk.js": "/andersons9601/contador-de-cliques/static/js/453.a0c46b0b.chunk.js",
+    "index.html": "/andersons9601/contador-de-cliques/index.html",
+    "main.e6c13ad2.css.map": "/andersons9601/contador-de-cliques/static/css/main.e6c13ad2.css.map",
+    "main.0790585b.js.map": "/andersons9601/contador-de-cliques/static/js/main.0790585b.js.map",
+    "453.a0c46b0b.chunk.js.map": "/andersons9601/contador-de-cliques/static/js/453.a0c46b0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0790585b.js"
+  ]
+}
